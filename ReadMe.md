@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am currently working on: a project named PocketHelper<br>🍁 I am currently learning: coding in HTML with JS and CSS
+👨‍💻 I am currently working on: a project named Radetzky FM. It's my own web-based radio.<br>🍁 I am currently learning: coding in HTML with JS and CSS
 
 
 ## 🌐 Socials:
