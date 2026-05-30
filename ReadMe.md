@@ -1,9 +1,9 @@
 # 💫 About Me:
-👨‍💻 I am currently working on: a project named Radetzky FM. It's my own web-based radio.<br>🍁 I am currently learning: coding in HTML with JS and CSS
+👨‍💻 I am currently working on: a project named HyperClean OS App. It's a windows optimizer and toolkit application. <br>🍁 I am currently learning: coding in HTML with JS and CSS
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@catman911) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radetzkymate2012@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matetechz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radetzkymate2012@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
